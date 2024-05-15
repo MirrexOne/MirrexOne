@@ -1,6 +1,7 @@
-### Hi there 👋
+<h3 align="left">Hi there 👋. My name is Alexander. I am Java Backend Developer</h3>
+
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/026/128/252/original/lennart-butz-idea5anim.gif?1587962316)
-<h3 align="center">My name is Alexander. I am Java Backend Developer</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
