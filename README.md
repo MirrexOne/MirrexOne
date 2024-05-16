@@ -7,4 +7,4 @@
 [![Telegram](https://user-images.githubusercontent.com/95209245/205297581-a8d5cac0-1a9c-431e-8ef3-9f554cee81c1.svg)](https://t.me/Aserryo)
 
 ## Skills:
-![My Skills](https://skillicons.dev/icons?i=java,gradle,postgres,git,github,linux,bash&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,gradle,postgres,idea,git,github,linux,bash&theme=dark)
