@@ -1,4 +1,4 @@
-![image](https://github.com/MirrexOne/MirrexOne/assets/158137581/fc2197d9-29a7-476c-867a-2da077bcf1f6)# Hi there 👋. My name is Alexander. I am Java Backend Developer
+# Hi there 👋. My name is Alexander. I am Java Backend Developer
 ![evening](evening.gif)
 
 ## About me:
