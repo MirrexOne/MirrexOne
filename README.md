@@ -1,6 +1,6 @@
 # Hi there 👋. My name is Alexander. I am Java Backend Developer
 ![evening](evening.gif)
-Junior Java Backend Developer with experience and confident knowledge of Java Core, Spring Framework (Boot, MVC, Data JPA), Hibernate and working with Docker and CI/CD. I am proficient in Java 8+, Spring (Boot, MVC, Data JPA), Hibernate, PostgreSQL, Git, Linux, Docker. In development I use Gradle, Maven and follow TDD methodology, using JUnit to write tests. I adhere to SOLID principles when designing applications, and use Design Patterns and integration testing practices. I have experience developing web applications using REST APIs and Hibernate ORM. I follow the principles of SOLID and clean code. Quick to learn new technologies and development methodologies.
+Junior Java Backend Developer with experience and confident knowledge of Java Core, Spring Framework (Boot, MVC, Data JPA, Security), Hibernate and working with Docker and CI/CD. I am proficient in Java 8+, Spring (Boot, MVC, Data JPA, Security), Hibernate, PostgreSQL, Git, Linux, Docker. In development I use Gradle, Maven and follow TDD methodology, using JUnit to write tests. I adhere to SOLID principles when designing applications, and use Design Patterns and integration testing practices. I have experience developing web applications using REST APIs and Hibernate ORM. I follow the principles of SOLID and clean code. Quick to learn new technologies and development methodologies.
 
 ## About me:
 🤝 I'm open to collaborate on any projects and job offers    
