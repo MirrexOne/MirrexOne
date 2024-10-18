@@ -8,7 +8,8 @@ Junior Java Backend Developer with experience and confident knowledge of Java Co
 🧠 I'm learning computer science
 
 ## Connect with me:
-✉️  You can contact me at mirrexone@gmail.com   
+✉️ You can contact me at mirrexone@gmail.com   
+💼 [Habr career](https://career.habr.com/mirrex_one)  
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/mirrex)
 [![Telegram](https://user-images.githubusercontent.com/95209245/205297581-a8d5cac0-1a9c-431e-8ef3-9f554cee81c1.svg)](https://t.me/Mirrexxx)
 
