@@ -14,4 +14,4 @@ Junior Java Backend Developer with experience and confident knowledge of Java Co
 [![Telegram](https://user-images.githubusercontent.com/95209245/205297581-a8d5cac0-1a9c-431e-8ef3-9f554cee81c1.svg)](https://t.me/Mirrexxx)
 
 ## Skills:
-![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,gradle,postgres,docker,idea,git,linux,bash&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,kafka,redis,gradle,postgres,docker,idea,git,linux,bash,neovim&theme=dark)
