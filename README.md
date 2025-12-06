@@ -1,4 +1,4 @@
-# Hi there 👋. My name is Alexander. I am Backend Developer
+# Hi there 👋. My name is Alexander. I am Backend Engineer
 ![evening](evening.gif)
 Go Backend developer with experience and confident knowledge of development on Go, PostgreSQL, Docker / Docker Compose, Redis, Apache Kafka, REST, gRPC, GraphQL, Unix-like OS and CI/CD. I follow TDD methodology in development. I adhere to SOLID principles when designing applications, and use Design Patterns and integration testing practices. I have experience in developing web applications using REST, gRPC and GraphQL. I follow the principles of SOLID and clean code. Quick to learn new technologies and development methodologies.
 
