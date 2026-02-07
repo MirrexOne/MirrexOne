@@ -21,4 +21,4 @@ I am looking for an opportunity to apply my skills in real projects, contribute 
 [![Telegram](https://user-images.githubusercontent.com/95209245/205297581-a8d5cac0-1a9c-431e-8ef3-9f554cee81c1.svg)](https://t.me/Mirrexxx)
 
 ## Skills:
-![My Skills](https://skillicons.dev/icons?i=go,postgres,kafka,redis,docker,git,linux,bash,neovim&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=go,postgres,kafka,redis,mongodb,docker,kubernetes,git,linux,bash,neovim&theme=dark)
